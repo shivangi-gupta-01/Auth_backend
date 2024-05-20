@@ -13,18 +13,6 @@ Autho is an authentication tool that facilitates user login through email verifi
     <li>Cors</li>
 </ul>
 
-## How to run?
-### Method 1: Local Development
-1. Clone the repository using the command: `git clone https://github.com/ananyagrwl/auth_backend2.git`
-2. Navigate to the project directory: `cd auth_backend2`
-3. Install dependencies: `npm install`
-4. Start the development `npm start`
-
-### Method 2: Deployment
-You can access the deployed version of the website directly via the following link: `https://auth-frontend-six.vercel.app/`
-The API is running live on: `auth-backend2-p7hn.onrender.com/`
-
-
-## Footer
-Author: `Ananya Agrawal`
-Email: `ananya88agrawal@gmail.com`
+## Details
+Author: `Shivangi gupta`
+Email: `1234shivangigupta@gmail.com`
