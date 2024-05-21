@@ -9,8 +9,8 @@ const sendMail = async (email, random) => {
       port: 587,
       secure: false, // Use `true` for port 465, `false` for all other ports
       auth: {
-        user: "ananya08agrawal@gmail.com",
-        pass: "ckfk zzrx ajny iizc",
+        user: "1234shivangigupta@gmail.com",
+        pass: "fzfq umns eurg xada",
       },
     });
 
